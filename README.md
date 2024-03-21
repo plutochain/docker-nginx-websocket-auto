@@ -18,7 +18,7 @@ These instructions will guide you through the setup of Docker and deployment of 
 
     bash
 
-    git clone https://github.com/yourusername/docker-nginx-websocket-setup.git
+    git clone https://github.com/plutochain/docker-nginx-websocket-auto.git
 
 Run the Docker Installation Script
 
@@ -26,7 +26,7 @@ Navigate to the cloned directory and run the Docker installation script:
 
 bash:
 
-    cd docker-nginx-websocket-setup
+    cd docker-nginx-websocket-auto
     chmod +x install_docker.sh
     ./install_docker.sh
 
